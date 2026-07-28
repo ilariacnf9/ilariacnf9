@@ -45,7 +45,7 @@
 
 **[RAG Assistant]**<br>
 It was my BSc thesis project. A RAG assistant for the consultation of technical documents, with Knowledge Base and vector database Qdrant. This system is integrated in a chatbot to make the consultation easier for the user.
-🔗 <a href="https://github.com/ilariacnf9/technical-rag-system.git">
+🔗 [Go to repo]<a href="https://github.com/ilariacnf9/technical-rag-system.git">
 
 <br>
 
