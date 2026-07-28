@@ -2,6 +2,7 @@
 
 <img src="http://capsule-render.vercel.app/api?type=checkered&color=0:63AEF4,40:5389F3,75:4463F3,100:343EF2&height=180&section=header&text=Ilarias%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&fontFamily=Times%20New%20Roman>" />
 
+
 <img src="my_girl.gif" width="140"/>
 
 </div>
@@ -45,7 +46,7 @@
 
 **[RAG Assistant]**<br>
 It was my BSc thesis project. A RAG assistant for the consultation of technical documents, with Knowledge Base and vector database Qdrant. This system is integrated in a chatbot to make the consultation easier for the user.
-🔗 [Go to repo]<a href="https://github.com/ilariacnf9/technical-rag-system.git">
+<a href="https://github.com/ilariacnf9/technical-rag-system.git">🔗Go to repo</a>
 
 <br>
 
@@ -61,6 +62,8 @@ It was my BSc thesis project. A RAG assistant for the consultation of technical 
 </p>
 
 <div align="center">
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=checkered&color=0:63AEF4,40:5389F3,75:4463F3,100:343EF2&height=100&section=footer" />
 
