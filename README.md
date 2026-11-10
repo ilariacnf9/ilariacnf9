@@ -11,7 +11,7 @@
 
 ## Who Am I?
 <p align="center">Hi, I'm Ilaria and welcome to my GitHub profile!</p>
-<p align="center">I've a Bachelor's Degree in CS at the University of Ferrara and I'll study for a Master's Degree in CS at the University of Bologna.</p>
+<p align="center">I've a Bachelor's Degree in CS at the University of Ferrara and I'm studying for a Master's Degree in CS at the University of Bologna.</p>
 <p align="center">I enjoy learning more every day about this world. I love details, perfection, and art.</p>
 
 <br>
